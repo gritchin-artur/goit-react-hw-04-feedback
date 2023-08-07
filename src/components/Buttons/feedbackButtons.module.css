@@ -1,0 +1,12 @@
+.listButtons {
+    display: flex;
+    gap: 20px;
+}
+
+.buttons {
+    width: 100px;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+
+}

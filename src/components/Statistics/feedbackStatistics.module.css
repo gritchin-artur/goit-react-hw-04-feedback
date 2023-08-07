@@ -1,0 +1,18 @@
+.listFeedback {
+    list-style: none;
+    display: grid;
+    gap: 30px;
+    font-size: 30px;
+}
+
+.good {
+     color: green;
+}
+
+.neutral {
+    color: rgb(227, 234, 18);
+}
+
+.bad {
+    color: red;
+}
